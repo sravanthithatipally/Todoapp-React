@@ -1,0 +1,19 @@
+.input-field-container{
+    padding:20px;
+}
+.input-field{
+    font-size:30px;
+    color:lightcoral;
+    border:2px solid gray;
+    padding:10px;
+}
+.add-button{
+    width:80px;
+    height:50px;
+    border:none;
+    border-radius:10px;
+    margin:10px;
+    background-color:peachpuff;
+    color:dodgerblue;
+    font-size:30px;
+}

@@ -1,0 +1,21 @@
+.todos-bg-container {
+  height: 100vh;
+  padding:30px;
+  margin:30px;
+}
+.todos-heading {
+  text-align: center;
+  font-size: 46px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color:dodgerblue;
+}
+
+.todos-container{
+  padding:10px;
+
+}
+.todo-subheading{
+  color:dodgerblue;
+}
